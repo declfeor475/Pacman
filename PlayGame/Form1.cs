@@ -34,7 +34,7 @@ namespace PlayGame
             g.Clear(Color.Black);
             g.DrawString("Player 1", titleFont, titleBrush, 240, 50);
             g.DrawString("Click Anywhere", titleFont, titleBrush, 210, 100);
-
+            //
         }
 
         private void Form1_Click(object sender, EventArgs e)
